@@ -1,3 +1,4 @@
 # python-spider
 a simple python spider
- @auth yangyanting
+
+by @auth yangyanting
